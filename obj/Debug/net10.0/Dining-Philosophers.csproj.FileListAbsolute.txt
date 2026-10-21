@@ -1,0 +1,14 @@
+C:\Users\livin\Operating Systems\Dining Philosophers\Dining-Philosophers\bin\Debug\net10.0\Dining-Philosophers.exe
+C:\Users\livin\Operating Systems\Dining Philosophers\Dining-Philosophers\bin\Debug\net10.0\Dining-Philosophers.deps.json
+C:\Users\livin\Operating Systems\Dining Philosophers\Dining-Philosophers\bin\Debug\net10.0\Dining-Philosophers.runtimeconfig.json
+C:\Users\livin\Operating Systems\Dining Philosophers\Dining-Philosophers\bin\Debug\net10.0\Dining-Philosophers.dll
+C:\Users\livin\Operating Systems\Dining Philosophers\Dining-Philosophers\bin\Debug\net10.0\Dining-Philosophers.pdb
+C:\Users\livin\Operating Systems\Dining Philosophers\Dining-Philosophers\obj\Debug\net10.0\Dining-Philosophers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livin\Operating Systems\Dining Philosophers\Dining-Philosophers\obj\Debug\net10.0\Dining-Philosophers.AssemblyInfoInputs.cache
+C:\Users\livin\Operating Systems\Dining Philosophers\Dining-Philosophers\obj\Debug\net10.0\Dining-Philosophers.AssemblyInfo.cs
+C:\Users\livin\Operating Systems\Dining Philosophers\Dining-Philosophers\obj\Debug\net10.0\Dining-Philosophers.csproj.CoreCompileInputs.cache
+C:\Users\livin\Operating Systems\Dining Philosophers\Dining-Philosophers\obj\Debug\net10.0\Dining-Philosophers.dll
+C:\Users\livin\Operating Systems\Dining Philosophers\Dining-Philosophers\obj\Debug\net10.0\refint\Dining-Philosophers.dll
+C:\Users\livin\Operating Systems\Dining Philosophers\Dining-Philosophers\obj\Debug\net10.0\Dining-Philosophers.pdb
+C:\Users\livin\Operating Systems\Dining Philosophers\Dining-Philosophers\obj\Debug\net10.0\Dining-Philosophers.genruntimeconfig.cache
+C:\Users\livin\Operating Systems\Dining Philosophers\Dining-Philosophers\obj\Debug\net10.0\ref\Dining-Philosophers.dll
